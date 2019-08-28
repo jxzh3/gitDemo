@@ -1,0 +1,141 @@
+Linux pwd命令
+Linux 命令大全 Linux 命令大全
+
+Linux pwd命令用于显示工作目录。
+
+执行pwd指令可立刻得知您目前所在的工作目录的绝对路径名称。
+
+语法
+pwd [--help][--version]
+参数说明:
+
+--help 在线帮助。
+--version 显示版本信息。
+实例
+查看当前所在目录：
+
+# pwd
+/root/test           #输出结果
+Linux 命令大全 Linux 命令大全
+
+ Shell 文件包含 Nginx 安装配置 
+ 点我分享笔记
+
+ 
+ 分类导航
+HTML / CSS
+JavaScript
+服务端
+数据库
+移动端
+XML 教程
+ASP.NET
+Web Service
+开发工具
+网站建设
+
+Advertisement
+
+ 
+反馈/建议反馈/建议
+在线实例
+·HTML 实例
+·CSS 实例
+·JavaScript 实例
+·Ajax 实例
+·jQuery 实例
+·XML 实例
+·Java 实例
+字符集&工具
+· HTML 字符集设置
+· HTML ASCII 字符集
+· HTML ISO-8859-1
+· HTML 实体符号
+· HTML 拾色器
+· JSON 格式化工具
+最新更新
+· 为什么局部内部...
+· 策略模式 VS 状...
+· Java 注解（Anno...
+· 设计模式：Build...
+· 设计模式之建造...
+· VMware 安装 Cen...
+· Python 汉诺塔
+站点信息
+· 意见反馈
+· 
+· 免责声明
+· 关于我们
+· 文章归档
+关注微信
+Linux pwd命令
+Linux 命令大全 Linux 命令大全
+
+Linux pwd命令用于显示工作目录。
+
+执行pwd指令可立刻得知您目前所在的工作目录的绝对路径名称。
+
+语法
+pwd [--help][--version]
+参数说明:
+
+--help 在线帮助。
+--version 显示版本信息。
+实例
+查看当前所在目录：
+
+# pwd
+/root/test           #输出结果
+Linux 命令大全 Linux 命令大全
+
+ Shell 文件包含 Nginx 安装配置 
+ 点我分享笔记
+
+ 
+ 分类导航
+HTML / CSS
+JavaScript
+服务端
+数据库
+移动端
+XML 教程
+ASP.NET
+Web Service
+开发工具
+网站建设
+
+Advertisement
+
+ 
+反馈/建议反馈/建议
+在线实例
+·HTML 实例
+·CSS 实例
+·JavaScript 实例
+·Ajax 实例
+·jQuery 实例
+·XML 实例
+·Java 实例
+字符集&工具
+· HTML 字符集设置
+· HTML ASCII 字符集
+· HTML ISO-8859-1
+· HTML 实体符号
+· HTML 拾色器
+· JSON 格式化工具
+最新更新
+· 为什么局部内部...
+· 策略模式 VS 状...
+· Java 注解（Anno...
+· 设计模式：Build...
+· 设计模式之建造...
+· VMware 安装 Cen...
+· Python 汉诺塔
+站点信息
+· 意见反馈
+· 
+· 免责声明
+· 关于我们
+· 文章归档
+关注微信
+
