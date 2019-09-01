@@ -17,7 +17,7 @@
 ````Cmder
 λ git add  readme.md      使用git add命令把readme.md文件添加到git仓库
 ````
-# 三: 新建分支
+# 四: 新建分支
 ````Cmder
-λ git branch  dev      使用git add命令把readme.md文件添加到git仓库
+λ git branch  dev      创建一个新的分支
 ````
