@@ -21,3 +21,7 @@
 ````Cmder
 λ git branch  dev      创建一个新的分支
 ````
+# 五: 切换分支
+````Cmder
+λ git checkout  master      切换到主分支
+````
