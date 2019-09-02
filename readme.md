@@ -25,3 +25,7 @@
 ````Cmder
 λ git checkout  master      切换到主分支
 ````
+# 五: 关闭速度优先模式并合并分支
+````Cmder
+λ git merge  --no-ff -m"先关闭默认得关闭速度优先模式再合并分支"      
+````
