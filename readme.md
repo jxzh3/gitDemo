@@ -34,17 +34,9 @@
 λ git pull origin master --allow-unrelated-histories 
 "解决版本冲突问题 fatal:refusing to merge unrelate histories"      
 ````
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
 饭饭小姐姐,你加加油哦!
-<<<<<<< HEAD
-=======
 好的 阿彭同学
->>>>>>> Stashed changes
-=======
+
 饭饭小姐姐,你一定在坚持到最后呀!!,加油哦!
->>>>>>> 47340e38b0e248a39f92f94f9fddb4f2f0987ab4
-=======
-好的 阿彭同学
->>>>>>> Stashed changes
+好的 阿彭同学 你也加油啊
+
