@@ -29,8 +29,8 @@
 ````Cmder
 λ git merge  --no-ff -m"先关闭默认得关闭速度优先模式再合并分支"      
 ````
-# 六: 关闭速度优先模式并合并分支
+# 七: 解决版本冲突问题：
 ````Cmder
 λ git pull origin master --allow-unrelated-histories 
-"解决版本冲突问题"      
+"解决版本冲突问题 fatal:refusing to merge unrelate histories"      
 ````
