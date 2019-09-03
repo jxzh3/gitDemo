@@ -34,6 +34,14 @@
 λ git pull origin master --allow-unrelated-histories 
 "解决版本冲突问题 fatal:refusing to merge unrelate histories"      
 ````
+# 八 解决修改同一个文件冲突的步骤如下：
+
+- <kbd> 首先是git stash 
+- <kbd> 然后git pull origin master
+- <kbd> 再把缓存的恢复git stash apply,确定好选择哪个 版本的代码后
+- <kbd> 然后你再git add ,再git commit -m"",
+- <kbd> 提交完了 最后一步就是了git push -u origin master
+
 饭饭小姐姐,你加加油哦!
 好的 阿彭同学
 
